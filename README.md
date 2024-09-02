@@ -1,2 +1,1 @@
 # Amazon-Clone
-Hello world
